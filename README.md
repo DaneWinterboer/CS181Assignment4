@@ -34,7 +34,7 @@ Enter manager 3 hourly wage: **22.50 [enter]**\
 Enter manager 3 hours worked: **40 [enter]**\
 Enter manager 3 bonus: **0.00 [enter]**
 
-Highest paid manager is Diane Dubinski who is paid $900.00
+Highest paid manager is Diane Dubinski who is paid $900.00\
 Average pay is $701.25
 ## Authors
 
