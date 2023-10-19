@@ -8,7 +8,7 @@ and average salary of a user defined number of manager level employees.
 
 The program firsts asks the user to declare the desired number of manager level employees, and then asks the user to input every managers' name, wage, hours worked, and bonus. 
 
-After data for every manager is entered by the user, the program will calculate and print the highest paid manager along with their salary, along with the average pay accross all managers.
+After data for every manager is entered by the user, the program will calculate and print the highest paid manager along with their salary. The program will then calculate and print the average pay accross all managers.
 
 Ex. Program Execution [**BOLD** is user input]
 
