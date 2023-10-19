@@ -27,7 +27,7 @@ int main()
   cin >> totalManagers;
   cout << endl; // blank line
   
-  // Dynamically allocates arrary of managers
+  // Dynamically allocates array of managers
   Manager* managers = new Manager[totalManagers];
   
   // Gets user input of manager information
@@ -57,7 +57,7 @@ int main()
     cout << endl; // blank line
 
     
-    // Creates a new object initlized with user input
+    // Creates a new object initialized with user input
     Manager* temp = new Manager(bonus, name, wage, hours);
     
     // Stores new object in manager array
@@ -69,7 +69,7 @@ int main()
   }
   
   // Finds highest paid manager in list
-  size_t highestPayIndex = 0; // tracking varaiable for highest paied index
+  size_t highestPayIndex = 0; // tracking varaiable for highest paided index
   
   for(size_t index = 1; index < totalManagers; index++)
   {
